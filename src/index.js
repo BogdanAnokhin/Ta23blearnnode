@@ -9,7 +9,7 @@ import ToDo from './pages/ToDo.vue';
 import Modals from './pages/Modals.vue';
 import ChuckNorris from './pages/ChuckNorris.vue';
 import RickAndMorty from './pages/RickAndMorty.vue';
-import CookieClikier from './pages/CookieClikier.vue';
+import CookieClikier from './pages/CookieCliker.vue';
 import Vibration from './pages/Vibration.vue';
 import Chat from './pages/chat.vue';
 import Leaflet from './pages/Leaflet.vue';
