@@ -1,8 +1,8 @@
 <script setup>
 import axios from 'axios';
 import { onMounted, ref } from 'vue';
-import CharacterCard from '../comp/CharacterCard.vue';
-import PagedPagination from '../comp/PagedPagination.vue';
+import CharacterCard from '../components/CharacterCard.vue';
+import PagedPagination from '../components/PagedPagination.vue';
 
 let characters = ref([]);
 let pagination = ref({});

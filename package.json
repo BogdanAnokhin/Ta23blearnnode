@@ -27,17 +27,17 @@
     "vue": "^3.5.13",
     "vue-loader": "^17.4.2",
     "vue-template-compiler": "^2.7.16",
-    "webpack": "^5.95.0",
+    "webpack": "^5.99.9",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^5.1.0"
+    "webpack-dev-server": "^5.2.1"
   },
   "dependencies": {
     "body-parser": "^2.2.0",
     "cheerio": "^1.0.0",
     "express": "^5.1.0",
     "i": "^0.3.7",
-    "md5": "^2.3.0",
     "leaflet": "^1.9.4",
+    "md5": "^2.3.0",
     "vue-router": "^4.5.0",
     "ws": "^8.18.2"
   }
