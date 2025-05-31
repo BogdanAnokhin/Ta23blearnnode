@@ -1,5 +1,5 @@
 import axios from "axios";
-import * as cheerio from 'cheiro';
+import * as cheerio from 'cheerio';
 import fs from 'fs/promises';
 import path from 'path';
 
